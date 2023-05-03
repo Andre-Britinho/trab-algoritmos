@@ -118,5 +118,6 @@ int main(){
             }
         }
     }
-
+    
+    system("pause");
 }//main
